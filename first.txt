@@ -1,0 +1,26 @@
+JavaScript fundamentals:
+
+1) Introduction to JavaScript:
+    - Variables & Data types
+    - Conditional Logic
+    - Arrays and Objects
+    - Iteration
+    - Functions
+
+
+
+--- JAVASCRIPT INTRODUCTION ---
+#JavaScript history & Setup
+
+• What is the difference between JavaScript and ECMAScript?
+• Who is Brendan Eich?
+• How do you hide and show the Chrome console?
+• Create a simple page with a script tag. Inside of the script tag declare a couple of variables and then log their values to the console.
+• Research prompt and confirm - what do they do?
+
+
+1 => JavaScript is the language while ECMAScript is the standard which is implemented by JavaScript.
+2 => Brendan Eich is the creator of JavaScript
+3 => Alt + Option + J
+4 => Done in the first.js file
+5 => Done in the first.js file
